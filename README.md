@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently building **FightIQ**, a full-stack combat sports analytics platform.
+- 🌱 I’m currently learning **cloud deployment and infrastructure** (AWS, Azure) for scalable web apps.
+\
 <!--
 **HAK-ux/HAK-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Vancouver, BC, CAN
 * ✉️  You can contact me at [khanh3777@gmail.com](mailto:khanh3777@gmail.com)
-* 🚀  I'm currently working on [FightIQ](http://https://github.com/HAK-ux/FightIQ)
+* 🚀  I'm currently working on **FightIQ**, a full-stack combat sports analytics platform.
 * 🧠  I'm currently learning cloud deployment and infrastructure (AWS, Azure) for scalable web apps.
 
 ### Skills
